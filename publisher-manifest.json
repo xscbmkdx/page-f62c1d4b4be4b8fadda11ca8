@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "1bc532dcb853e2fabd03a25e",
+  "owner": "xscbmkdx",
+  "repo": "page-f62c1d4b4be4b8fadda11ca8",
+  "title": "星愿云(SWCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f62c1d4b4be4b8fadda11ca8",
+      "a": "星愿云(SWCloud)",
+      "b": "小火箭节点",
+      "entity": "星愿云(SWCloud)",
+      "brand": "星愿云(SWCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f36ff5884f4928ac803125d937dfcb9223e7a1dbb9756e148f547a8a2c4ca266",
+      "content": {
+        "primary_entity": "星愿云(SWCloud)",
+        "keyword1": "星愿云(SWCloud)",
+        "keyword2": "小火箭节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "在常用客户端中导入订阅，按设备类型选择适配方式。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据月流量与在线设备数量挑选合适套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐开始加速",
+          "AI_DESCRIPTION": "，星愿云(SWCloud)提供按月或按年付费的加速服务，套餐覆盖基础版、旗舰版和团队版，对应不同流量与设备数量。选好方案后获取订阅链接，在常用客户端中导入配置。节点池包含普通线路与 IPLC 专线，适合流媒体播放、游戏加速和日常跨区访问。",
+          "AI_FEATURES_INTRO": "根据流量、设备数与线路需求选择套餐。",
+          "AI_FEATURES_TITLE": "星愿云套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "多设备支持",
+          "AI_FEATURE_TITLE_3": "专线加速",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端订阅配置。",
+          "AI_GUIDE_TITLE": "配置使用流程",
+          "AI_HERO_INTRO": "星愿云(SWCloud)提供多档海外加速套餐，覆盖单个设备到团队使用场景。选择合适套餐后，获取订阅链接并在常用客户端中导入，即可使用节点服务。",
+          "AI_HERO_SUBTITLE": "灵活套餐，适配多设备加速",
+          "AI_HIGHLIGHT_1": "三档套餐可按月或按年支付",
+          "AI_HIGHLIGHT_2": "普通线路与 IPLC 专线可选",
+          "AI_HIGHLIGHT_3": "从 3 台到 20 台设备灵活支持",
+          "AI_PLANS_INTRO": "对比基础版、旗舰版与团队版的流量、设备数和线路差异。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据每月需要的流量和同时在线设备数，从三档套餐中选定一档。",
+          "AI_STEP_TEXT_2": "阅读所选套餐的适配要求，确认客户端类型和订阅周期。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按照客户端文档导入节点并开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "星愿云加速服务",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "星愿云(SWCloud)套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按设备数量和月流量需求选择：基础版3台设备、100GB适合轻度使用；旗舰版5台设备、300GB含IPLC专线适合游戏与流媒体；团队版20台设备、1000GB适合多人共享。",
+          "AI_FAQ_QUESTION_2": "订阅是否支持多设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出设备数可能导致连接中断，建议按实际设备数量选择。",
+          "AI_FAQ_QUESTION_3": "按年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按年付可节省费用：基础版¥150/年，旗舰版¥350/年，团队版¥850/年，相比月付累计更划算，权益与月付一致。",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "获取订阅链接后，打开对应客户端选择从链接导入或手动添加订阅，具体步骤参考客户端附带的配置文档。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线有什么作用？",
+          "AI_FAQ_ANSWER_5": "IPLC专线提供更稳定的跨境连接，降低游戏延迟和视频卡顿，适合对网络质量要求较高的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "45b538a4fa25a216c0488dd7666e6e6045ad0ef156ae51aa18f2e00c081516a6",
+    "sitemap.xml": "0e6caa83d80f2dc7842f1902514be4f94762a7a9981a871ae59ae44ff3b5fb91",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "0c8c640bf6f017e4f282b515a672cbdf9a5199f8208497298c13345c008ca768"
+}
